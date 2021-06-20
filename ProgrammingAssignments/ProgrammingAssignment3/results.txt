@@ -1,0 +1,6 @@
+Training dataset filename: trainingSet.txt
+Test dataset filename: trainingSet.txt
+	Accuracy: %95.19038076152304
+Training dataset filename: trainingSet.txt
+Test dataset filename: testSet.txt
+	Accuracy: %78.26961770623743
